@@ -1,0 +1,2 @@
+# Messager app 
+replicatting Design from Figma, The body container is splitted into two grid items. The first one contains sidePanel icons for navigation and the second contains the main content with heater.
